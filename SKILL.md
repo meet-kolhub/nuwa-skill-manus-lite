@@ -1,3 +1,4 @@
+---
 name: nuwa-skill-manus-lite
 description: Lets Manus choose a thinking mode such as TikTok Shop Growth Strategist, KOL Campaign Planner, UGC Script Doctor, or Custom Thinking Style before helping with a task.
 ---
